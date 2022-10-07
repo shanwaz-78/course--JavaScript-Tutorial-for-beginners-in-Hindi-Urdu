@@ -2,16 +2,16 @@
 
 ``Java-Script Work``.
 
-[Even-Odd Number. ](./Even-Odd-Number.md) 
+ -> [Even-Odd Number. ](./MD/Even-Odd-Number.md) 
 
-[Array's](./array.md)
+-> [Array's](./MD/array.md)
 
-[While , do , for (loop).](./loop.md)
+-> [While , do , for (loop).](./MD/loop.md)
 
-[Functions.](./Function.md)
+-> [Functions.](./MD/Function.md)
 
-[If-Else Statement.](./If-Else.md)
+-> [If-Else Statement.](./MD/If-Else.md)
 
-[Variable](./Variable.md)
+-> [Variable](./MD/Variable.md)
 
-[Switch-Case.](./Switch-case.md)
+-> [Switch-Case.](./MD/Switch-case.md)
