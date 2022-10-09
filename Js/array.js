@@ -1,10 +1,10 @@
         console.log("Let's see Array's");
 
-        var ary = [10,20,30,40,50];
+      var HS = [10,20,30,40,50];
         for(var a = 0; a <= 4; a++){
-            document.write("<li>" + ary[a] + "</li>");
+          console.log(HS[a]);
         }
-
+     
        // document.write("get data through the user");
        /* var ary = new Array[3];
 
