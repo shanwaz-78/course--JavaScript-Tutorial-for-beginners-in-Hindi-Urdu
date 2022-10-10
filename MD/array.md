@@ -1,7 +1,7 @@
-# Array.
+# Array .
 
-> In JavaScript, array is a single variable that is used to store different elements. It is often used when we want to store list of elements and access them by a single variable.
-
+> * In JavaScript, array is a single variable that is used to store different elements. It is often used when we want to store list of elements and access them by a single variable.
+---
         console.log("Let's see Array's");
 
         var ary = [10,20,30,40,50];
@@ -9,16 +9,16 @@
             document.write("<li>" + ary[a] + "</li>");
         }
 
-       // document.write("get data through the user");
-       /* var ary = new Array[3];
+      // document.write("get data through the user");
+       var ary = new Array[3];
 
         for(var g = 0; g < 3; g++){
-            ary[g] = prompt("Enter The Value");
+           ary[g] = prompt("Enter The Value");
         }
 
         for(var a = 0; a < 3; a++){
-            document.write("<li>" + ary[a] + "</li>");
-        }*/
+         document.write("<li>" + ary[a] + "</li>");
+        }
 
         document.write("<strong>This is multidimensional Array<br></strong> ");
 
@@ -37,3 +37,6 @@
         document.write("</tr>");
       }
       document.write("</table>")
+---
+  > * #### [For More Click Over This.](../Js/array.js)
+      

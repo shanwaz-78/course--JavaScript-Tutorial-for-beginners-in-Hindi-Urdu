@@ -37,16 +37,4 @@
         document.write("<br>");
       }
       
-         
-   
-         
-  
-    
-
- 
-     
-
-
-       
-       
-      
+ * >  #### [For More Click Over This.](../Js/loop.js)

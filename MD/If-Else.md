@@ -4,9 +4,9 @@
 
 * Like ->
 
-var per = prompt("Please Enter Your Percentage");
+> var per = prompt("Please Enter Your Percentage");
        
->if (per >= 80 && per <= 100){
+``if (per >= 80 && per <= 100){
   console.log("You are in merit");
 }else if (per >= 60 && per <= 80){
   console.log("You are Ist Division");
@@ -18,37 +18,41 @@ var per = prompt("Please Enter Your Percentage");
   console.log("You are Fail");
 }else{
   console.log("Please Enter Valid Percentage");
-}  
+}``
 
-console.log("let's see If Statement")
+* console.log("let's see If Statement")
 
->var a = 100;
+`` var a = 100;
 var b = 80;
 if(a > b){
     console.log("A is Greater")
-}
+} ``
 
-> var a = 100;
+`` var a = 100;
 var b = 80;
 if(b < a){
     console.log("B is Smaller")
-}
+} ``
 
 > console.log("let's see If else Statement")
 
-var T = 60;
+* var T = 60;
 
->if (T > 30){
+`` if (T > 30){
 console.log("T is Greater");
 }else{
 console.log("T is Smaller");
-}       
+} ``       
 
-//alert("This is alert");
+* //alert("This is alert");
 var H = confirm("Learners");
 
-> if (H){
+`` if (H){
 alert("Saleh's Student");
 }else{
 alert("Thanks For Reading");
-}
+}``
+
+---
+
+> * #### [For More Click Over This.](../Js/If-else.js)

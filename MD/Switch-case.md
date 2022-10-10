@@ -36,3 +36,6 @@
     default:
         console.log("Please Enter Valid Day");
  }
+
+ ---
+ * > #### [For More Click Over This.](../Js/switch-case.js)

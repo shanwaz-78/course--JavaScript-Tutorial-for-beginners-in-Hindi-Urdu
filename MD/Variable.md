@@ -24,3 +24,6 @@ console.log(a);
   
   > var z = 50;
    console.table([1,2,3]);
+   ---
+
+   * > #### [For More Click Over This.](../Js/variable.js)
