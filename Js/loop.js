@@ -20,7 +20,7 @@
       }while(a <= 10);
 
       for(var a = 1; a <= 10; a++){
-        document.write("This is for loop");
+        document.write("This is for loop<br>");
       }
 
       document.write("This is nested loop<br>");
@@ -31,6 +31,15 @@
         document.write("<br>");
       }
       
+         document.write("Break & Continue<br>");
+
+     for(var a = 1; a <= 10; a++){
+      if(a <= 3){
+        document.write("Hey" + a + "<br>");
+        continue;
+      }
+      document.write("Shanwaz" + a + "<br>");
+     }
          
    
          
