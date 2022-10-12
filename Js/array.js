@@ -36,8 +36,7 @@ for (var a = 0; a < 4; a++) {
 document.write("</table>")
 
 
-/* document.write("<B>Array<br></b>");
-
+/*
 var HS = ["Saleh Majeed",18,"Male","B.Tech<br>"];
  document.write(HS);
 
