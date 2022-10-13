@@ -1,7 +1,7 @@
 console.log("Let's see Array's");
 
-var HS = [10, 20, 30, 40, 50,60,70,80,90,100];
-for (var a = 0; a<HS.length; a++) {
+var HS = [10,20,30,40,50,60,70,80,90,100];
+for(var a = 0; a<HS.length; a++){
   document.write("Shanwaz" + HS[a] + "<br>");
 }
 
@@ -25,6 +25,7 @@ var HS = [
   ["Shanwaz", 18, "Male", "BCA"],
   ["Hussain", 18, "Male", "BCA"]
 ];
+
 document.write("<table border='1px' cellspacing='3px'>")
 for (var a = 0; a < 4; a++) {
   document.write("<tr>");
@@ -36,7 +37,6 @@ for (var a = 0; a < 4; a++) {
 document.write("</table>")
 
 
-/*
 var HS = ["Saleh Majeed",18,"Male","B.Tech<br>"];
  document.write(HS);
 
@@ -48,7 +48,7 @@ var HS = ["Saleh Majeed",18,"Male","B.Tech<br>"];
  delete HS[3];
  document.write(HS + "<br>");
 
- document.write("This is sort array<br>");
+ document.write("<b>This is sort array<br></b>");
 
  var a = ["Shanwaz","Danish","Uzair","Saleh Majeed"];
  document.write(a + "<br>");
@@ -56,6 +56,14 @@ var HS = ["Saleh Majeed",18,"Male","B.Tech<br>"];
  a.sort();
  document.write(a + "<br>");
 
- document.write("This is reverse array<br>");
+ document.write("<b>This is reverse array<br></b>");
  a.reverse();
- document.write(a);*/
+ document.write(a + "<br>");
+
+var a = ["Saleh","Danish","Uzair","Adnan"];
+document.write(a + "<br>");
+
+/*var b = ["Adnana","Umer","Fayaz","Michail"];
+var c = a.concat(b);
+document.write(c);*/
+
