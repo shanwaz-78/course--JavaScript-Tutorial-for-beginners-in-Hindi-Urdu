@@ -67,5 +67,6 @@ document.write("<b>Concat & Join</b><br>");
 var a = ["Saleh","Jahid","Mohsin"];
 var b = ["Adnana","Umer","Fayaz","Michail"];
 var c = a.concat(b);
-document.write(c);
+document.write(c + "<br>");
+
 
