@@ -63,7 +63,9 @@ var HS = ["Saleh Majeed",18,"Male","B.Tech<br>"];
 var a = ["Saleh","Danish","Uzair","Adnan"];
 document.write(a + "<br>");
 
-/*var b = ["Adnana","Umer","Fayaz","Michail"];
+document.write("<b>Concat & Join</b><br>");
+var a = ["Saleh","Jahid","Mohsin"];
+var b = ["Adnana","Umer","Fayaz","Michail"];
 var c = a.concat(b);
-document.write(c);*/
+document.write(c);
 
