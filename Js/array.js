@@ -73,4 +73,5 @@ document.write("<b>This is unshift</b><br>");
 
 var a = ["Saleh","Danish","Uzair"];
 a.unshift("Umer","Shanwaz");
-document.write(a);
+document.write(a + "<br>");
+
