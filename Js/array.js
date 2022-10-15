@@ -69,3 +69,7 @@ var b = ["Adnana","Umer","Fayaz","Michail"];
 var c = a.concat(b);
 document.write(c + "<br>");
 
+document.write("<b>This is unshift</b><br>");
+var a = ["Saleh","Danish","Uzair"];
+a.unshift("Umer","Shanwaz");
+document.write(a);
