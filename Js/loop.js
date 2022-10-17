@@ -41,15 +41,3 @@
       document.write("Shanwaz" + a + "<br>");
      }
          
-   
-         
-  
-    
-
- 
-     
-
-
-       
-       
-      
