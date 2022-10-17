@@ -41,3 +41,5 @@
 ### Concat-Join Array.
 * -> [For More Click Over This.](./MD/Concat-Join-Array.md)
 ---
+### Slice-Splice Array.
+* -> [For More Click Over This.](./MD/slice-splice-array.md)
