@@ -43,3 +43,9 @@
 ---
 ### Slice-Splice Array.
 * -> [For More Click Over This.](./MD/slice-splice-array.md)
+---
+### IsArray.
+* -> [For More Click Over This.](./MD/isarray.md)
+---
+### Include Array.
+* -> [For More Click Over This.](./MD/include-array.md)
