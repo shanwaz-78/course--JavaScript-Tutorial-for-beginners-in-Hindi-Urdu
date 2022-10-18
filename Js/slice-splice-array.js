@@ -9,5 +9,5 @@ document.write(b + "<br>");
 
 var a = ["Saleh","Danish","Fayaz","Hussain"];
 document.write(a + "<br>");
-a.splice(-4,1,"Ibrahim");
-document.write(a);
+a.splice(2,0,"Ibrahim");
+document.write(a + "<br>");
