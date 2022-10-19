@@ -49,3 +49,13 @@
 ---
 ### Include Array.
 * -> [For More Click Over This.](./MD/include-array.md)
+---
+### Some-Every Array.
+* -> [For More Click Over This.](./MD/some-every-array.md)
+---
+### Find-FindIndex Array.
+* -> [For More Click Over This.](./MD/find-findIndex-array.md)
+---
+### Filter Array.
+* -> [For More Click Over This.](./MD/filter-array.md)
+---
