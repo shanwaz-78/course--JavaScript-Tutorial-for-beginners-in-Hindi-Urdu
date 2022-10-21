@@ -14,5 +14,13 @@
 
          document.write("Let's see event");
          function learners(){
-            document.write("This is Event in JavaScript");
-         }  
+            document.write("This is Event in JavaScript<br>");
+         } 
+
+         function table(num) {
+            for(let a = 1; a<= 10; a++){
+               document.write(num * a + "<br>");
+            }
+         }
+
+         table(3);
