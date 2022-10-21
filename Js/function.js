@@ -1,4 +1,4 @@
-        console.log("Let's see Function");
+       console.log("Let's see Function");
 
         function Yahoo(){
             console.log("This is Function");
@@ -24,3 +24,5 @@
          }
 
          table(3);
+
+    
