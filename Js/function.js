@@ -25,6 +25,13 @@ function table(num) {
 
 table(3);
 
+function names(dataname) {
+for(let get = 0; get<dataname.length; get++){
+   console.log(dataname[get]);
+}
+   
+}
 
-
-
+names(["Saleh","Uzer"]);
+names(["Danish","Moien"]);
+names(["Shanwaz","Jahid"]);
