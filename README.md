@@ -59,3 +59,9 @@
 ### Filter Array.
 * -> [For More Click Over This.](./MD/filter-array.md)
 ---
+### forEach Array.
+* -> [For More Click Over This.](./MD/forEach-array.md)
+---
+### Objects.
+* -> [For More Click Over This.](./MD/Object.md)
+---
