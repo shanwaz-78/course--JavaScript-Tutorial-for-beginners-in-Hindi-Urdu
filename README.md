@@ -1,67 +1,67 @@
 > ## JAVA-SCRIPT.
 
 ### Even-Odd Number.
-* -> [For More Click Over This.](./MD/Even-Odd-Number.md)
+:v: -> [For More Click Over This.](./MD/Even-Odd-Number.md)
 ---
 
 ### Functions.
-* -> [For More Click Over This.](./MD/Function.md)
+:v: -> [For More Click Over This.](./MD/Function.md)
 ---
 
 ### Switch-Case.
-* -> [For More Click Over This.](./MD/Switch-case.md)
+:v: -> [For More Click Over This.](./MD/Switch-case.md)
 ---
 
 ### Array's.
-* -> [For More Click Over This.](./MD/array.md)
+:v: -> [For More Click Over This.](./MD/array.md)
 ---
 
 ### If-Else Statement.
-* -> [For More Click Over This.](./MD/If-Else.md)
+:v: -> [For More Click Over This.](./MD/If-Else.md)
 ---
 
 ### Loop.
-* -> [For More Click Over This.](./MD/loop.md)
+:v: -> [For More Click Over This.](./MD/loop.md)
 ---
 ### Variables.
-* -> [For More Click Over This.](./MD/Variable.md)
+:v: -> [For More Click Over This.](./MD/Variable.md)
 ---
 ### Sort-Reverse Array.
-* -> [For More Click Over This.](./MD/sort-reverse-array.md)
+:v: -> [For More Click Over This.](./MD/sort-reverse-array.md)
 ---
 ### Shift-Unshift Array.
-* -> [For More Click Over This.](./MD/shift-unshift.md)
+:v: -> [For More Click Over This.](./MD/shift-unshift.md)
 ---
 ### pop-push array.
-* -> [For More Click Over This.](./MD/pop-push-array.md)
+:v: -> [For More Click Over This.](./MD/pop-push-array.md)
 ---
 ### Modify-Delete Array.
-* -> [For More Click Over This.](./MD/modify-delete-array.md)
+:v: -> [For More Click Over This.](./MD/modify-delete-array.md)
 ---
 ### Concat-Join Array.
-* -> [For More Click Over This.](./MD/Concat-Join-Array.md)
+:v: -> [For More Click Over This.](./MD/Concat-Join-Array.md)
 ---
 ### Slice-Splice Array.
-* -> [For More Click Over This.](./MD/slice-splice-array.md)
+:v: -> [For More Click Over This.](./MD/slice-splice-array.md)
 ---
 ### IsArray.
-* -> [For More Click Over This.](./MD/isarray.md)
+:v: -> [For More Click Over This.](./MD/isarray.md)
 ---
 ### Include Array.
-* -> [For More Click Over This.](./MD/include-array.md)
+:v: -> [For More Click Over This.](./MD/include-array.md)
 ---
 ### Some-Every Array.
-* -> [For More Click Over This.](./MD/some-every-array.md)
+:v: -> [For More Click Over This.](./MD/some-every-array.md)
 ---
 ### Find-FindIndex Array.
-* -> [For More Click Over This.](./MD/find-findIndex-array.md)
+:v: -> [For More Click Over This.](./MD/find-findIndex-array.md)
 ---
 ### Filter Array.
-* -> [For More Click Over This.](./MD/filter-array.md)
+:v: -> [For More Click Over This.](./MD/filter-array.md)
 ---
 ### forEach Array.
-* -> [For More Click Over This.](./MD/forEach-array.md)
+:v: -> [For More Click Over This.](./MD/forEach-array.md)
 ---
 ### Objects.
-* -> [For More Click Over This.](./MD/Object.md)
----
+:v:  -> [For More Click Over This.](./MD/Object.md)
+---                    
