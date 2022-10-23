@@ -1,5 +1,5 @@
-let array = ["Saleh","Danish","Shanwaz","Fayaz"];
+let array = ["Shanwaz",18,"Male","BCA"];
 
-array.forEach(function(valuesofnames) {
-    console.log(valuesofnames);
+array.forEach(function(valueofnames) {
+    console.log(valueofnames);
 })

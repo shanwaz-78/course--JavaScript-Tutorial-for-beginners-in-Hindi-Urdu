@@ -12,5 +12,4 @@ let obj = {
     },
 };
 
-
 console.log(obj.otp());
