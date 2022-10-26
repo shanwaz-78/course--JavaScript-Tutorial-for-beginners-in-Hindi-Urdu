@@ -43,4 +43,3 @@ function per(scmarks) {
 
 console.log(per(302));
 
-
