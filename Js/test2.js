@@ -28,3 +28,16 @@ function prc(Shanwaz,Shanwaz2,Shanwaz3) {
 }
 
 console.log(prc(15,20,30));
+
+
+function table(num,num2) {
+let a = num + num2;
+}
+
+ const b = table(10,10);
+
+ if (b % 2 == 0) {
+  console.log("This is even number")
+ }else{
+  console.log("This is odd number")
+ }
