@@ -1,4 +1,4 @@
-let obj = {
+const obj = {
     fname: "Shanwaz",
     lname: "Khan",
     Age: 18,
@@ -11,7 +11,6 @@ let obj = {
         return this.fname + " " + this.lname;
     },
 };
-
 console.log(obj.otp());
 
 

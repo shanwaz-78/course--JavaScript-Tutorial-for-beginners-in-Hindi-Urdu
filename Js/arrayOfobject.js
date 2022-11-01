@@ -4,6 +4,8 @@ const arrOFobj = [
     { name: "Saleh", Age: 21 },
 ];
 
+
 for (let check = 0; check < arrOFobj.length; check++) {
     console.log(arrOFobj[check].name + " " + arrOFobj[check].Age);
 }
+
