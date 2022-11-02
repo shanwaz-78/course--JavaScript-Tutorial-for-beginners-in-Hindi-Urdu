@@ -10,6 +10,5 @@ console.log(b);
 
 const int = 22.3;
 
-const c = Number.isInteger(int);
-console.log(c);
-
+const c = Number.isFinite(int);
+console.log(c)
