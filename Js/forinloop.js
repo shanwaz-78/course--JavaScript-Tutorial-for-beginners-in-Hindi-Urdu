@@ -4,6 +4,6 @@ obj.firstName = "Shanwaz";
 obj.lastName = "Khan";
 obj.Age = 18;
 
-for(let check in obj){
+for(let check in boj){
     console.log(obj[check]);
 }
