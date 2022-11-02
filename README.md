@@ -89,3 +89,6 @@
 ### StrigMethods.
 :v: -> [For More Click Over This.](./MD/StringMethods.md)
 ---
+### NumberMethods.
+:v: -> [For More Click Over This.](./MD/NumberMethods.md)
+---
