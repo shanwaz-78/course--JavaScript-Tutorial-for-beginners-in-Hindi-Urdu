@@ -1,6 +1,6 @@
 > ## JAVA-SCRIPT.
 
-### Even-Odd Number.
+### <span>Even-Odd Number.
 :v: -> [For More Click Over This.](./MD/Even-Odd-Number.md)
 ---
 
@@ -85,4 +85,7 @@
 ---
 ### ForinLoop.
 :v: -> [For More Click Over This.](./MD/forinloop.md)
+---
+### StrigMethods.
+:v: -> [For More Click Over This.](./MD/StringMethods.md)
 ---
