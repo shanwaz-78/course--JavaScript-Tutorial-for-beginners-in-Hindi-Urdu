@@ -92,3 +92,9 @@
 ### NumberMethods.
 :v: -> [For More Click Over This.](./MD/NumberMethods.md)
 ---
+### DateMethods.
+:v: -> [For More Click Over This.](./MD/DateMethod.md)
+---
+### MathMethods.
+:v: -> [For More Click Over This.](./MD/Math.md)
+---
