@@ -41,3 +41,14 @@ let a = num + num2;
  }else{
   console.log("This is odd number")
  }
+
+ function tst(check) {
+  const a = check / 600 * 100;
+  console.log(a);
+  if (a % 2 != 0) {
+    console.log("This is even")
+  }else{
+    console.log("this is odd");
+  }
+ }
+ console.log(tst(302));
