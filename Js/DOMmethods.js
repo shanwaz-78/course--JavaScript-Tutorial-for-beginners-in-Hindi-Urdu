@@ -36,3 +36,5 @@ document.domain;*/
 
     const f = document.getElementById("xyz").removeAttribute("style");
     console.log(f);
+
+    
