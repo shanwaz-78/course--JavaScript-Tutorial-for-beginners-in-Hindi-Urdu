@@ -19,8 +19,6 @@ const check = new Object();
 check.firstName = "Saleh";
 check.lastName = "Majeed";
 check.Age = 21;
-check.fn = function pr() {
-    return this.firstName + " " + this.lastName;
-}
 
-console.log(check.fn());
+
+console.log(check.firstName + " " + check.lastName + " " + check.Age)

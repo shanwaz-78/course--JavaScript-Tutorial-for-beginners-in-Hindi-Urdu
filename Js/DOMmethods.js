@@ -21,7 +21,7 @@ document.domain;*/
 
     // set method;
 
-    const check = document.getElementById("relpos");
+  /* const check = document.getElementById("relpos");
 
     console.log(check);
     
@@ -35,6 +35,25 @@ document.domain;*/
 
 
     const f = document.getElementById("xyz").removeAttribute("style");
-    console.log(f);
+    console.log(f);*/
 
+    const prc = Math.ceil(23.4);
+    console.log(prc);
+
+    const prc2 = Math.round(8.7);
+    console.log(prc2);
+
+    const prc3 = Math.trunc(23.4);
+    console.log(prc3);
+
+    const prc4 = Math.cbrt(8);
+    console.log(prc4);
+
+    const prc5 = Math.sqrt(64)
+    console.log(prc5);
     
+    const hs = new Date();
+
+    console.log(hs.getFullYear()+ "/" + hs.getDay() + "/" + hs.getDate());
+
+   
