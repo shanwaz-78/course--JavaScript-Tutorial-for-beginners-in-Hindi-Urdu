@@ -55,5 +55,3 @@ document.domain;*/
     const hs = new Date();
 
     console.log(hs.getFullYear()+ "/" + hs.getDay() + "/" + hs.getDate());
-
-   
