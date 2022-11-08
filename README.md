@@ -98,3 +98,6 @@
 ### MathMethods.
 :v: -> [For More Click Over This.](./MD/Math.md)
 ---
+### DOMMethods.
+:v: -> [For More Click Over This.](./MD/DOMMethod.md)
+---
