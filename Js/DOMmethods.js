@@ -39,7 +39,7 @@ document.domain;*/
 
     const prc = Math.ceil(23.4);
     console.log(prc);
-
+  
     const prc2 = Math.round(8.7);
     console.log(prc2);
 
