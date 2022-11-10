@@ -101,3 +101,6 @@
 ### DOMMethods.
 :v: -> [For More Click Over This.](./MD/DOMMethod.md)
 ---
+### QuerySelector.
+:v: -> [For More Click Over This.](./Js/querySelector.js)
+---
