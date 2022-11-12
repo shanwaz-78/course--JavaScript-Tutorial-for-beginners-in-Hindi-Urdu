@@ -104,3 +104,6 @@
 ### QuerySelector.
 :v: -> [For More Click Over This.](./Js/querySelector.js)
 ---
+### CreateMethod.
+:v: -> [For More Click Over This.](./MD/createMethod.md)
+---
