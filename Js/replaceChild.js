@@ -34,3 +34,24 @@ const returnval = "<h1>Khwaja Garib Nawaz</h1>";
 
 const returnval2 = document.querySelector("ul");
 returnval2.insertAdjacentHTML("afterbegin",returnval)
+
+const check = document.createElement("li");
+const check2 = document.createTextNode("Yunus");
+check.appendChild(check2);
+
+const additon = document.querySelector("ul").appendChild(check)
+
+const replace1 = document.createElement("li");
+const replace2 = document.createTextNode("Mujahid");
+replace1.appendChild(replace2);
+
+const changes1 = document.querySelector("ul");
+const changes2 = changes1.children[2];
+changes1.replaceChild(replace1,changes2);
+
+const newelement = document.createElement("li");
+const newelement2 = document.createTextNode("Adnan");
+newelement.appendChild(newelement2);
+
+const newtext = document.querySelector("ol");
+newtext.appendChild(newelement)
