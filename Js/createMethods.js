@@ -19,8 +19,14 @@ exval.insertAdjacentElement("beforeend",ex1)
 
 const table = document.querySelector("footer");
 
-const text = "<h1>This is just text2</h1>";
+const text = "<h1>This is just text 2</h1>";
 
-table.insertAdjacentHTML("afterbegin",text)
+table.insertAdjacentHTML("afterbegin",text);
 
+document.querySelector("input").addEventListener("mouseenter",function () {
+    document.querySelector("input").addEventListener("mouseout",function () {
+        this.style.background = "none";
+    })
+    this.style.background = "darkgrey"
+})
 
