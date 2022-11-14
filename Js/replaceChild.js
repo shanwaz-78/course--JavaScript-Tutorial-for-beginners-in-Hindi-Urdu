@@ -54,4 +54,4 @@ const newelement2 = document.createTextNode("Adnan");
 newelement.appendChild(newelement2);
 
 const newtext = document.querySelector("ol");
-newtext.appendChild(newelement)
+newtext.appendChild(newelement);
