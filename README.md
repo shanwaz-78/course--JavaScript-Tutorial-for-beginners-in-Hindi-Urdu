@@ -110,3 +110,6 @@
 ### Replace Method.
 :v: -> [For More Click Over This.](./MD/replaceMethod.md)
 ---
+### hasAttribute.
+:v: -> [For More Click Over This.](./MD/hasAttribute.md)
+---
