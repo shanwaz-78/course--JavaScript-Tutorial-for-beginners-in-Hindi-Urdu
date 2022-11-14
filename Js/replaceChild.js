@@ -55,3 +55,23 @@ newelement.appendChild(newelement2);
 
 const newtext = document.querySelector("ol");
 newtext.appendChild(newelement);
+
+    document.querySelector("#input-box").addEventListener("input",function () {
+        const target = this.value;
+        document.querySelector("div").innerHTML = target;
+    })
+
+    document.querySelector("#select-box").addEventListener("change",function () {
+        const target = this.value;
+        document.querySelector("div").innerHTML = target;
+    })
+
+    document.querySelector("#pwd-box").addEventListener("input",function () {
+        const target2 = this.value;
+        document.querySelector("div").innerHTML = target2;
+    })
+
+    document.querySelector("#submit-btn").addEventListener("click",function () {
+        const val = document.querySelector("#input-box").value;
+        alert("hello" + " " + val );
+    })
