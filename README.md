@@ -107,3 +107,6 @@
 ### CreateMethod.
 :v: -> [For More Click Over This.](./MD/createMethod.md)
 ---
+### Replace Method.
+:v: -> [For More Click Over This.](./MD/replaceMethod.md)
+---
