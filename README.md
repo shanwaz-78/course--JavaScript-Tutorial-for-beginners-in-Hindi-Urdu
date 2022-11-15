@@ -113,3 +113,6 @@
 ### hasAttribute.
 :v: -> [For More Click Over This.](./MD/hasAttribute.md)
 ---
+### setInterval.
+:v: -> [For More Click Over This.](./MD/setInterval.md)
+---
