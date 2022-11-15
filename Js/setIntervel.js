@@ -1,9 +1,9 @@
-let val1 = 0;
-const val2 = setInterval(function () {
-  val1 += 10;
-  if (val1 == 40) {
-    clearInterval(val2);
+let nval = 0;
+const nval2 = setInterval(function () {
+  if (nval == 30) {
+    clearInterval(nval2);
   }
-  const target = document.querySelector("#animation");
-  target.style.width = val1 + "px";
+  nval += 10;
+  const checkval = document.querySelector("#animation");
+  checkval.style.marginLeft = nval + "px";
 }, 1000);
