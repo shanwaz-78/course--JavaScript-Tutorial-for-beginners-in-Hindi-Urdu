@@ -116,3 +116,6 @@
 ### setInterval.
 :v: -> [For More Click Over This.](./MD/setInterval.md)
 ---
+### Windowmethod.
+:v: -> [For More Click Over This.](./MD/Windowmethod.md)
+---
