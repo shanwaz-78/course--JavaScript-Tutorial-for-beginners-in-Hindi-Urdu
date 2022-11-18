@@ -22,3 +22,6 @@ console.log(`${nval} ${nval2}`);
 
     const hs = (fname,lname) => `${fname} ${lname}`
     console.log(hs("Younus","Lukman"))
+
+  const fn = (firstn,lastn) => `${firstn} ${lastn}` 
+  console.log(fn("Sohil","Moien"));

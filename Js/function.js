@@ -35,3 +35,4 @@ for(let get = 0; get<dataname.length; get++){
 names(["Saleh","Uzer"]);
 names(["Danish","Moien"]);
 names(["Shanwaz","Jahid"]);
+
