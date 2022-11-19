@@ -37,7 +37,7 @@ names(["Danish","Moien"]);
 names(["Shanwaz","Jahid"]);
 
 function fn(num) {
-   return num * 60 / 100;
+   return num / 600 * 100;
 }
 
 console.log(fn(302))
