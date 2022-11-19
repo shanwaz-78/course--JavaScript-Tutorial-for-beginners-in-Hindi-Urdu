@@ -36,3 +36,8 @@ names(["Saleh","Uzer"]);
 names(["Danish","Moien"]);
 names(["Shanwaz","Jahid"]);
 
+function fn(num) {
+   return num * 60 / 100;
+}
+
+console.log(fn(302))
