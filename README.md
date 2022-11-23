@@ -122,3 +122,6 @@
 ### Templeteliterels.
 :v: -> [For More Click Over This.](./MD/Templeteliterels.md)
 ---
+### restOperator.
+:v: -> [For More Click Over This.](./MD/rest-operator.md)
+---
