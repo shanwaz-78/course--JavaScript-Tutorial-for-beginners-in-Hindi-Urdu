@@ -1,4 +1,4 @@
-n//ceil gives the upper value  of decimal numbers;
+//ceil gives the upper value  of decimal numbers;
 const ex = Math.ceil(3.10);
 console.log(ex);
 
