@@ -25,3 +25,6 @@ console.log(`${nval} ${nval2}`);
 
   const fn = (firstn,lastn) => `${firstn} ${lastn}` 
   console.log(fn("Sohil","Moien"));
+
+  const arrfn = (firstname,lastname) => `${firstname} ${lastname}`
+  console.log(arrfn("Apple","Banana"))
