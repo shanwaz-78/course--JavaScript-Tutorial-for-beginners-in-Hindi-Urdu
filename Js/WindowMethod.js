@@ -1,4 +1,4 @@
-// Window height width methods
+  // Window height width methods
 // window.innerHeight;
 // window.innerWidth;
 // window.outerHeight;

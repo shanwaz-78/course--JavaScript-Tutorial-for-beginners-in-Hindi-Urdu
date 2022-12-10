@@ -8,7 +8,7 @@ const obj = {
         return 200000;
     },
     otp: function () {
-        return this.fname + " " + this.lname;
+        return `${this.fname} ${this.lname}`;
     },
 };
 console.log(obj.otp());
@@ -21,4 +21,4 @@ check.lastName = "Majeed";
 check.Age = 21;
 
 
-console.log(check.firstName + " " + check.lastName + " " + check.Age)
+console.log(`${check.firstName} ${check.lastName} ${check.Age} ${obj.Qualification}`)

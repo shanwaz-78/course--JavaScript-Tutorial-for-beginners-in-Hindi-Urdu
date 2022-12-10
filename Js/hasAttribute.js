@@ -13,3 +13,4 @@ const select = document.querySelector("select").addEventListener("change",functi
 const check = document.querySelector("h5");
 const check2 = document.querySelector("#xyz");
 const check3 = check.contains(check2)
+console.log(check3)
