@@ -33,4 +33,3 @@ const stop = setInterval(function () {
     const hs = document.querySelector("#submit-btn");
     hs.style.marginLeft = count + "px"
 },1000)
-
