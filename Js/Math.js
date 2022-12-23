@@ -1,5 +1,5 @@
 //ceil gives the upper value  of decimal numbers;
-const ex = Math.ceil(3.10);
+const ex = Math.ceil(4.10);
 console.log(ex);
 
 //round gives the nearest integer value if decimal number is starting above 5 or 5 he given the upper value;
