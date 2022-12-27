@@ -5,9 +5,7 @@ console.log(`${nval} ${nval2}`);
 
  // Arrow Function.
 
-    const val = (fname,lname) =>`${fname} ${lname}`
-
-    console.log(val("Saleh","Majeed"));
+    const val = (fname,lname) =>`${fname} ${lname}`; console.log(val("Saleh","Majeed"));
 
   const val2 = fname => `${fname}`; console.log(val2("Danish"))
 
