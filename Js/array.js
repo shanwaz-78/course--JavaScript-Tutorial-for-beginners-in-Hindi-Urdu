@@ -2,7 +2,7 @@ console.log("Let's see Array's");
 
 var HS = [10,20,30,40,50,60,70,80,90,100];
 for(var a = 0; a<HS.length; a++){
-  document.write("Shanwaz" + HS[a] + "<br>");
+  console.log('shanwaz' + HS[a])
 }
 
 // document.write("get data through the user");
@@ -15,9 +15,6 @@ for(var a = 0; a<HS.length; a++){
  for(var a = 0; a < 3; a++){
      document.write("<li>" + ary[a] + "</li>");
  }*/
-
-document.write("<br>");
-document.write("<strong>This is multidimensional Array</strong><br>");
 
 var HS = [
   ["Saleh Majeed", 21, "Male", "B.Tech"],
