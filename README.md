@@ -125,3 +125,9 @@
 ### restOperator.
 :v: -> [For More Click Over This.](./MD/rest-operator.md)
 ---
+### spreadOperator.
+:v: -> [For More Click Over This.](./Js/spreadOperator.js)
+---
+### objectLiterels.
+:v: -> [For More Click Over This.](./Js/objectLiterels.js)
+---
