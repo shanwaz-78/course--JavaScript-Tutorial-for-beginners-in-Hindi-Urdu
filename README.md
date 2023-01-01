@@ -131,3 +131,6 @@
 ### objectLiterels.
 :v: -> [For More Click Over This.](./Js/objectLiterels.js)
 ---
+### Destructuring Array.
+:v: -> [For More Click Over This.](./Js/Destructurig-Array.js)
+---
