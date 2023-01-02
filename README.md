@@ -134,3 +134,9 @@
 ### Destructuring Array.
 :v: -> [For More Click Over This.](./Js/Destructurig-Array.js)
 ---
+### Destructring Object.
+:v: -> [For More Click Over This.](./Js/destructuring-Object.js)
+---
+### Oop (Object Oriented Programming.)
+:v: -> [For More Click Over This.](./Js/Oop.js)
+---
