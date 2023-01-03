@@ -3,23 +3,18 @@
 ### <span>Even-Odd Number.
 :v: -> [For More Click Over This.](./MD/Even-Odd-Number.md)
 ---
-
 ### Functions.
 :v: -> [For More Click Over This.](./MD/Function.md)
 ---
-
 ### Switch-Case.
 :v: -> [For More Click Over This.](./MD/Switch-case.md)
 ---
-
 ### Array's.
 :v: -> [For More Click Over This.](./MD/array.md)
 ---
-
 ### If-Else Statement.
 :v: -> [For More Click Over This.](./MD/If-Else.md)
 ---
-
 ### Loop.
 :v: -> [For More Click Over This.](./MD/loop.md)
 ---
