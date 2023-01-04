@@ -135,3 +135,6 @@
 ### Oop (Object Oriented Programming.)
 :v: -> [For More Click Over This.](./Js/Oop.js)
 ---
+### Class Inheritance.
+:v: -> [For More Click Over This.](./Js/Class-Inheritance.js)
+---
