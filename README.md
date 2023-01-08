@@ -138,3 +138,9 @@
 ### Class Inheritance.
 :v: -> [For More Click Over This.](./Js/Class-Inheritance.js)
 ---
+### Modules.
+:v: -> [For More Click Over This.](./Js/Modules.js)
+---
+### Library.
+:v: -> [For More Click Over This.](./Js/Library.js)
+---

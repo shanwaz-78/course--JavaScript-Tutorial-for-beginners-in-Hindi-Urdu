@@ -18,7 +18,7 @@ class studnet {
     let course;
     console.log("This is just for practice");
   }
-
+  
   courseName() {
     console.log(
       `Student name is ${this.studnetname} & Age is ${this.studnetage} & doing course is ${this.course}`
