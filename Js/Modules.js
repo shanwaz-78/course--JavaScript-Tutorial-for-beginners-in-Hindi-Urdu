@@ -1,2 +1,2 @@
-import  Massege  from "./Library.js";
+import  Massege from "./Library.js";
 console.log(Massege)

@@ -1,6 +1,4 @@
 const Massege = 'Initial Massege For Testing';
-
-
 function percentage(num) {
    return num / 600 * 100;
 }
@@ -24,10 +22,11 @@ class User{
 class inherit extends User{
 
 }
+
 const obj = {
     Massege,percentage,User
 }
-export  default obj
+export default obj;
 
 const Userobj = new User('Shanwaz',19);
 const inherited = new inherit();
