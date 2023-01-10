@@ -23,10 +23,13 @@ class inherit extends User{
 
 }
 
-const obj = {
-    Massege,percentage,User
+// This is default method to export
+export default function () {
+    console.log('This is default method')
 }
-export default obj;
+
+export {Massege,User,percentage};
+// This is very easy method to export data.
 
 const Userobj = new User('Shanwaz',19);
 const inherited = new inherit();

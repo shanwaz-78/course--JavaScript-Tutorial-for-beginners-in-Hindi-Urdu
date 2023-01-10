@@ -38,7 +38,6 @@ class BCA extends BBA{ // it's called multilavel inheritance;
 
 }
 
-
 const val1 = new ScStudent();
 const val2 = new BBA();
 const val3 = new BCA()
