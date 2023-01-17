@@ -144,3 +144,6 @@
 ### Library.
 :v: -> [For More Click Over This.](./Js/Library.js)
 ---
+### Promise.
+:v: -> [For More Click Over This.](./Js/promise.js)
+---
