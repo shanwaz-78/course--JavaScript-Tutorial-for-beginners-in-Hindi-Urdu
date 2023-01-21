@@ -15,7 +15,7 @@ class User {
   }
 }
 
-const obj = new User(10, 15, 3);
+const obj = new User('Yahoo','Baba');
 obj.course = "BCA";
 obj.details();
 
