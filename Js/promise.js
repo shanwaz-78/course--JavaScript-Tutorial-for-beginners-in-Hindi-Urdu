@@ -1,51 +1,51 @@
-// function fn(num) {
-//     return new Promise(function (resolve,reject) {
-//         console.log('Please Wait, Data is Fetching')
-//      setTimeout(() => {
-//         console.log('Data Fetched Successful')
-//         if (num >= 20) {
-//             resolve('Name is Greater (Seprate Promise)');
-//         }else{
-//             reject('Name is lower')
-//         }
-//      }, 1000);
-//     })
-// }
+function fn(num) {
+    return new Promise(function (resolve,reject) {
+        console.log('Please Wait, Data is Fetching')
+     setTimeout(() => {
+        console.log('Data Fetched Successful')
+        if (num >= 20) {
+            resolve('Name is Greater (Seprate Promise)');
+        }else{
+            reject('Name is lower')
+        }
+     }, 1000);
+    })
+}
 
-// const a = new Promise(function (resolve,reject) {
-//    setTimeout(() => {
-//     resolve(10)
-//    console.log('First promise has resolved')
-//    }, 2000);
-// })
+const a = new Promise(function (resolve,reject) {
+   setTimeout(() => {
+    resolve(10)
+   console.log('First promise has resolved')
+   }, 2000);
+})
 
-// const b = new Promise(function (resolve,reject) {
-//    setTimeout(() => {
-//     resolve(20)
-//         console.log('second promise has resolved')
-//    }, 3000);
-// })
+const b = new Promise(function (resolve,reject) {
+   setTimeout(() => {
+    resolve(20)
+        console.log('second promise has resolved')
+   }, 3000);
+})
 
-// const c = new Promise(function (resolve,reject) {
-//     setTimeout(() => {
-//      resolve(30)
-//          console.log('third promise has resolved')
-//     }, 4000);
-//  })
+const c = new Promise(function (resolve,reject) {
+    setTimeout(() => {
+     resolve(30)
+         console.log('third promise has resolved')
+    }, 4000);
+ })
 
-// fn(20).then((result)=> {
-//     console.log(result)
-// }).catch((reject)=> {
-//     console.log(reject)
-// })
+fn(20).then((result)=> {
+    console.log(result)
+}).catch((reject)=> {
+    console.log(reject)
+})
 
-// Promise.all([a,b,c]).then((succss)=> {
-//     console.log(`Value is : ${succss}`)
-//     const Total = succss.reduce((acc,crr)=> acc + crr)
-//     console.log(`Total is : ${Total}`)
-// }).catch((error)=> {
-//     console.log(`Error is : ${error}`)
-// })
+Promise.all([a,b,c]).then((succss)=> {
+    console.log(`Value is : ${succss}`)
+    const Total = succss.reduce((acc,crr)=> acc + crr)
+    console.log(`Total is : ${Total}`)
+}).catch((error)=> {
+    console.log(`Error is : ${error}`)
+})
 
 // // const a = prompt("Please Enter Your Percentage")
 
@@ -70,5 +70,3 @@
 // // }
 
 // // },3000);
-console.log(3>2>1);
-
