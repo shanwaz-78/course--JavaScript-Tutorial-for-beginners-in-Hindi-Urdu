@@ -147,3 +147,6 @@
 ### Promise.
 :v: -> [For More Click Over This.](./Js/promise.js)
 ---
+### AJAX.
+:v: -> [For More Click Over This.](./Js/Ajax.js)
+---
