@@ -25,7 +25,7 @@ class inherit extends User{
 
 // This is default method to export
 export default function () {
-    console.log('This is default method')
+  Massege,User,percentage
 }
 
 export {Massege,User,percentage};
