@@ -150,3 +150,9 @@
 ### AJAX.
 :v: -> [For More Click Over This.](./Js/Ajax.js)
 ---
+### Fetch.
+:v: -> [For More Click Over This.](./Js/fecthApi.js)
+---
+### Insert Data On Server Using Fetch.
+:v: -> [For More Click Over This.](./Js/fetchInsert.js)
+---
