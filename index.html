@@ -8,8 +8,33 @@
     <title>Javascript.</title>
 </head>
 <body>
-     <button>Click Me</button>
+    <form action="" id="form">
+    Name : <input type="text" id="Name"><br>
+    Password : <input type="password" name="" id="password"><br>
+    City : <input type="text" id="city"><br>
+    Submit : <input type="button" value="Submit" id="Submit">
+</form>
 </body>
+<script>
+    document.getElementById('Submit').addEventListener('click', (e) =>{
+        e.preventDefault()
+        fetch('https://jsonplaceholder.typicode.com/users',{
+    method : 'POST',
+    body : JSON.stringify({
+        Name : document.getElementById('Name').value,
+        Password : document.getElementById('password').value,
+        City : document.getElementById('city').value,
+    }),
+    headers : {
+        'Content-type' : 'application/json',
+    },
+   })
+   .then(response => response.json())
+   .then(result => console.log(result))   
+
+    })
+   
+</script>
 <!--<script src="Js/even-odd-number.js"></script>-->
 <!--<script src="Js/function.js"></script>-->
 <!--<script src="Js/If-else.js"></script>-->
@@ -59,5 +84,7 @@
 <!-- <script src="./Js/Class-Inheritance.js"></script> -->
 <!-- <script type='module' src="./Js/Modules.js"></script> -->
 <!-- <script src="./Js/promise.js"></script>  -->
-<script src="./Js/Ajax.js"></script>
+<!-- <script src="./Js/Ajax.js"></script> -->
+<!-- <script src="./Js/fecthApi.js"></script> -->
+<script src="./Js/fetchInsert.js"></script>
 </html>
