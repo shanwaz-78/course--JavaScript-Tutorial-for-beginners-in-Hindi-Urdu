@@ -156,3 +156,6 @@
 ### Insert Data On Server Using Fetch.
 :v: -> [For More Click Over This.](./Js/fetchInsert.js)
 ---
+### Async & Await.
+:v: -> [For More Click Over This.](./Js/Async%20%26%20Await.js)
+---

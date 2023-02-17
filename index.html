@@ -16,24 +16,29 @@
 </form>
 </body>
 <script>
-    document.getElementById('Submit').addEventListener('click', (e) =>{
-        e.preventDefault()
-        fetch('https://jsonplaceholder.typicode.com/users',{
-    method : 'POST',
-    body : JSON.stringify({
-        Name : document.getElementById('Name').value,
-        Password : document.getElementById('password').value,
-        City : document.getElementById('city').value,
-    }),
-    headers : {
-        'Content-type' : 'application/json',
-    },
-   })
-   .then(response => response.json())
-   .then(result => console.log(result))   
+//   document.querySelector('#Submit').addEventListener("click",(e)=> {
+//     e.preventDefault();
+//     try {
+//         alert('Your Form Submited Successful')
+//     fetch('https://jsonplaceholder.typicode.com/users',{
+//         method : 'POST',
+//         body : JSON.stringify({
+//             name : document.querySelector('#Name').value,
+//             password : document.querySelector('#password').value,
+//             city : document.querySelector('#city').value,
+//         }),
+//         headers : {
+//             'Content-type' : 'application/json',
+//         },
+//     })
+//     .then(resoponse => resoponse.json())
+//     .then(result => console.log(result))
 
-    })
-   
+//     } catch (error) {
+//         console.log('Error Is Occured');
+//     };
+//   });
+
 </script>
 <!--<script src="Js/even-odd-number.js"></script>-->
 <!--<script src="Js/function.js"></script>-->
@@ -86,5 +91,6 @@
 <!-- <script src="./Js/promise.js"></script>  -->
 <!-- <script src="./Js/Ajax.js"></script> -->
 <!-- <script src="./Js/fecthApi.js"></script> -->
-<script src="./Js/fetchInsert.js"></script>
+<!-- <script src="./Js/fetchInsert.js"></script> -->
+<script src="./Js/Async & Await.js"></script>
 </html>
