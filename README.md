@@ -159,3 +159,9 @@
 ### Async & Await.
 :v: -> [For More Click Over This.](./Js/Async%20%26%20Await.js)
 ---
+### Regular Expressions.
+:v: -> [For More Click Over This.](./Js/Regular%20Expression.js)
+---
+### Generators.
+:v: -> [For More Click Over This.](./Js/generators.js)
+---
