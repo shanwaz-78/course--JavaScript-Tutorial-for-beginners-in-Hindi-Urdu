@@ -1,4 +1,5 @@
 document.querySelector("#Submit").addEventListener('click',(e) => {
+  e.preventDefault();
   try {
     alert('Your Form Submited Successfuly')
     e.preventDefault();
