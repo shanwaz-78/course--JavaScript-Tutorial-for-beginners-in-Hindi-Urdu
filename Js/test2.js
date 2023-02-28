@@ -89,3 +89,7 @@ const str2 = 'World';
 console.log(str2.concat(', ', str1))
 const val4 = `${str2}, ${str1}`
 console.log(val4)
+
+fetch('./Ajax.js')
+.then((response => response.text()))
+.then((result => console.log(result)))
