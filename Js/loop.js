@@ -15,7 +15,7 @@
       
       var a = 1;
       do{
-        console.log("This is do loop");'
+        console.log("This is do loop");
         a = a+1;
       }while(a <= 10);
 
