@@ -3,7 +3,6 @@
 // .then(response => response.text()) // It will return the promise
 // .then(result => console.log(result)) // It will also return the promise
 
-console.log("\n");
 // Get from JSON file;
 
 fetch("https://jsonplaceholder.typicode.com/users")
@@ -66,7 +65,6 @@ get_data('https://jsonplaceholder.typicode.com/users');
 
 
 // put data 
-
 async function put_request(url, id, data) {
     const response = await fetch(`${url}/${id}`, {
         method : 'PUT',
