@@ -64,3 +64,32 @@ async function get_data(url) {
 
 get_data('https://jsonplaceholder.typicode.com/users');
 
+
+// put data 
+
+async function put_request(url, id, data) {
+    const response = await fetch(`${url}/${id}`, {
+        method : 'PUT',
+        body : JSON.stringify(data),
+        headers : {
+            'Content-type' : 'application/json'
+        }
+    })
+    if(!response.ok){
+        throw new Error(`Error at put_request status is ${response.status}` );
+    }
+    const user_data = await response.json();
+    return user_data;
+};
+
+async function put_data(url) {
+    const user_data = {
+        naem : 'Will',
+        age : 23,
+        designation : 'Developer',
+    };
+    const data = await put_request(url, 2, user_data);
+    console.log(data)
+};
+
+put_data('https://jsonplaceholder.typicode.com/users')
